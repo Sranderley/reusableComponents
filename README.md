@@ -11,7 +11,7 @@
 * [License](#license)
 
 ### <a name="motivation"></a>Motivation
-reusableComponents is an AngularJS module containing directives for UI components. It relies on the directives of the [reusableBehaviors](https://github.com/Sranderley/reusableBehaviors) module. These directives contain light, configurable interface elements which can be restyled.
+reusableComponents is an AngularJS module containing directives for light, configurable UI components which can be restyled. It relies on the directives of the [reusableBehaviors](https://github.com/Sranderley/reusableBehaviors) module.
 
 ### <a name="components"></a>Components
 * Checkbox - Exactly what you'd expect
